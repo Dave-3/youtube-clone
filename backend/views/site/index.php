@@ -36,6 +36,7 @@ $this->title = 'My Yii Application';
     		You don't have uploaded videos yet
     	</div>
     <?php endif;?>
+ </div>
     <div class="card m-2" style="width: 14rem;">
       <div class="card-body">
         <h5 class="card-title">Total Views</h5>
@@ -67,4 +68,4 @@ $this->title = 'My Yii Application';
       </div>
     </div>
   
-</div>
+
